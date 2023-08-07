@@ -7,5 +7,7 @@ Comandos de SQL Intermedio. Alura latam
 -GROUP BY
 -HAVING
 -CASE
--
+-INNER JOIN
+-RIGHT y LEFT JOIN
+-CROSS JOIN
 #######################################

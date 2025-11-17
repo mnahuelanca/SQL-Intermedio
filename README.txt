@@ -1,5 +1,5 @@
 #######################################
-Comandos de SQL Intermedio. Alura latam
+Comandos de SQL Intermedio.
 -LIKE
 -DISTINCT
 -LIMIT
